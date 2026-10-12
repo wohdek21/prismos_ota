@@ -1,3 +1,13 @@
 {
-  "response": []
+  "response": [
+    {
+      "datetime": 1789972948,
+      "filename": "lineage_dipper-ota-eng.wohdy21.zip",
+      "id": "6ff97077d1f7d4c1dc6208bf9c52ead50ae182c310279fa5df468c47f6e83730",
+      "romtype": "",
+      "size": 1101978295,
+      "url": "https://github.com/wohdek21/prismos_ota/releases/download/prismos-1.2.1/lineage_dipper-ota-eng.wohdy21.zip",
+      "version": "20.0"
+    }
+  ]
 }
